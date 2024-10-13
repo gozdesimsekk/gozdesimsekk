@@ -1,13 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
- <br/>
- 
-🔭 I’m currently working on React, Next.js  and React Native<br/>
-🌱 I have gained close to three years of experience as a frontend developer and have also had the opportunity to work in backend and DevOps processes <br/>
-🎨 I'm also UX/UI designer. <br/>
-👩🏽‍💻 I have studies in R and Python in the field of bioinformatics. I studied SNP, Sanger sequence and SingleCell-Seq data analysis. <br/>
+🔭 **I’m currently working with**:  
+- React  
+- Next.js  
+- React Native  
+- Node.js  
+- FastAPI  
+- MongoDB  
+- PostgreSQL, MySQL  
+- AWS (Cloud Infrastructure, Lambda Functions, S3, EC2)
 
-📫 How to reach me: gozdesimsekk1@gmail.com <br/>
+🌱 **Experience**:  
+I have nearly three years of experience as a frontend developer and have contributed to backend and DevOps processes as well.  
 
+🎨 **Design Skills**:  
+UX/UI design with a focus on creating intuitive and visually appealing interfaces.  
 
+👩🏽‍💻 **Bioinformatics Background**:  
+Proficient in R and Python, with experience in:  
+- SNP analysis  
+- Sanger sequencing  
+- SingleCell-Seq data analysis  
 
+📍 **Portfolio**:  
+[gozdesimsek.netlify.app](https://gozdesimsek.netlify.app/)
+
+📫 **How to reach me**:  
+gozdesimsekk1@gmail.com
