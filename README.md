@@ -18,9 +18,11 @@ UX/UI design with a focus on creating intuitive and visually appealing interface
 
 👩🏽‍💻 **Bioinformatics Background**:  
 Proficient in R and Python, with experience in:  
+- Machine Learning
+- CNN models
 - SNP analysis  
 - Sanger sequencing  
-- SingleCell-Seq data analysis  
+- SingleCell-Seq data analysis
 
 📍 **Portfolio**:  
 [gozdesimsek.netlify.app](https://gozdesimsek.netlify.app/)
