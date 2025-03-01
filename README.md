@@ -1,18 +1,18 @@
 ### Hey there, I'm Gözde Simşek! 👋
 
 🚀 **Frontend Developer | Bioinformatics Researcher | AI Enthusiast**  
-🎯 Passionate about **web & mobile development, AI applications in healthcare, and bioinformatics**.
+🎯 Passionate about **Web & Mobile development, AI applications in healthcare, bioinformatics, and generative AI**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 ```yaml
-💻 Frontend: React, Next.js, React Native, TypeScript, GSAP, Three.js
+💻 Frontend: React, Next.js, React Native, Vite.js, GSAP, Three.js
 🔧 Backend: Node.js, Express.js, FastAPI, Django
-📦 Databases: MongoDB, PostgreSQL, MySQL, Supabase
-☁️ DevOps & Cloud: AWS, Git, CapacitorJS
-🧠 AI & ML: PyTorch, TensorFlow
+📦 Databases: MongoDB, PostgreSQL, MySQL, Supabase, Milvus
+🤖 AI & ML: PyTorch, TensorFlow, OpenAI API, Hugging Face Transformers, RAG (Retrieval-Augmented Generation), LangChain
+☁️ DevOps & Cloud: AWS, Git, Docker
 🎨 Design: Figma, Canva, Webflow
 🛠️ Tools: Jira, Slack
 ```
