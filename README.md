@@ -1,31 +1,46 @@
-# Hi there 👋
+### Hey there, I'm Gözde Simşek! 👋
 
-🔭 **I’m currently working with**:  
-- React  
-- Next.js  
-- React Native  
-- Node.js  
-- FastAPI  
-- MongoDB  
-- PostgreSQL, MySQL  
-- AWS (Cloud Infrastructure, Lambda Functions, S3, EC2)
+🚀 **Frontend Developer | Bioinformatics Researcher | AI Enthusiast**  
+🎯 Passionate about **web & mobile development, AI applications in healthcare, and bioinformatics**.
 
-🌱 **Experience**:  
-I have nearly three years of experience as a frontend developer and have contributed to backend and DevOps processes as well.  
+---
 
-🎨 **Design Skills**:  
-UX/UI design with a focus on creating intuitive and visually appealing interfaces.  
+### 🛠️ Tech Stack
 
-👩🏽‍💻 **Bioinformatics Background**:  
-Proficient in R and Python, with experience in:  
-- Machine Learning
-- CNN models
-- SNP analysis  
-- Sanger sequencing  
-- SingleCell-Seq data analysis
+```yaml
+💻 Frontend: React, Next.js, React Native, TypeScript, GSAP, Three.js
+🔧 Backend: Node.js, Express.js, FastAPI, Django
+📦 Databases: MongoDB, PostgreSQL, MySQL, Supabase
+☁️ DevOps & Cloud: AWS, Git, CapacitorJS
+🧠 AI & ML: PyTorch, TensorFlow
+🎨 Design: Figma, Canva, Webflow
+🛠️ Tools: Jira, Slack
+```
 
-📍 **Portfolio**:  
-[gozdesimsek.netlify.app](https://gozdesimsek.netlify.app/)
+---
 
-📫 **How to reach me**:  
-gozdesimsekk1@gmail.com
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gozdesimsekk&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gozdesimsekk&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gozdesimsekk/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gozdesimsekk1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
