@@ -41,17 +41,24 @@ I'm a dynamic software developer and researcher, blending cutting-edge frontend 
 
 ## 🌐 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-<a href="https://www.linkedin.com/in/gozdesimsekk/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/gozdesimsekk/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </a>
 
-<a href="mailto:gozdesimsekk1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:gozdesimsekk1@gmail.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </a>
 
-</div>
+<a href="https://github.com/gozdesimsekk" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+
+<a href="https://gozdesimsek.netlify.app/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" style="border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+
 </div>
 
 ---
