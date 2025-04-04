@@ -41,12 +41,17 @@ I'm a dynamic software developer and researcher, blending cutting-edge frontend 
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gozdesimsekk/)
+<a href="https://www.linkedin.com/in/gozdesimsekk/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gozdesimsekk1@gmail.com)
+<a href="mailto:gozdesimsekk1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 </div>
 
 ---
