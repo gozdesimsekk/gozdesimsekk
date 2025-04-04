@@ -5,12 +5,6 @@
 
 ---
 
-## 💡 Who Am I?
-
-I'm a dynamic software developer and researcher, blending cutting-edge frontend technologies with innovative bioinformatics and AI solutions. With a strong foundation in web and mobile development, I bring a multidisciplinary approach to solving problems and creating impactful applications.
-
----
-
 ## 🌟 Tech Stack
 
 <div align="center">
@@ -49,10 +43,6 @@ I'm a dynamic software developer and researcher, blending cutting-edge frontend 
 
 <a href="mailto:gozdesimsekk1@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50px; padding: 10px; transition: transform 0.2s ease-in-out; background: linear-gradient(45deg, #D14836, #A13329);" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-</a>
-
-<a href="https://github.com/gozdesimsekk" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 50px; padding: 10px; transition: transform 0.2s ease-in-out; background: linear-gradient(45deg, #181717, #121212);" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
 </a>
 
 <a href="https://gozdesimsek.netlify.app/" target="_blank" style="text-decoration: none;">
