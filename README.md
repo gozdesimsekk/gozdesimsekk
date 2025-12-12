@@ -1,7 +1,7 @@
 # Hey there! I'm Gözde Simşek 👋
 
 🚀 **Full Stack Developer | Bioinformatics Researcher | AI Enthusiast**
-🎯 Passionate about **Web & Mobile development, AI applications in healthcare, bioinformatics, and generative AI**.
+🎯 Passionate about **Web & Mobile development and GenAI **
 
 ---
 
@@ -15,7 +15,7 @@
 | **Backend**       | Node.js, Express.js, FastAPI, Django               |
 | **Databases**     | MongoDB, PostgreSQL, MySQL, Supabase, Milvus       |
 | **AI & ML**       | PyTorch, TensorFlow, OpenAI API, Hugging Face Transformers, RAG, LangChain |
-| **DevOps & Cloud**| AWS, Git, Docker                                   |
+| **DevOps & Cloud**| AWS, Git, Docker,Azure                             |
 | **Design**        | Figma, Canva, Webflow                             |
 | **Tools**         | Jira, Slack                                       |
 
